@@ -1,7 +1,7 @@
 # FDPL
 
 This repo holds my code for a novel loss function for super resolution, which operates in the frequency domain.
-Please see the [accompanying paper](Freq_Domain_based_Perceptual_Loss.pdf) (*under review*) for full project details.
+Please see the [accompanying paper](Freq_Domain_based_Perceptual_Loss.pdf) (*to appear at IEEE MLSP 2020*) for full project details.
 
 
 This repository includes an implementation of SRCNN and models trained with Mean Square Error (MSE) and FDPL for 3x super resolution.
